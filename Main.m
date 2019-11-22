@@ -3,7 +3,7 @@
 clc;
 clear all;
 
-load('data\Cora.mat');
+load('Cora.mat');
 M = MotifAdjacency(sparse(uA),'M4'); %motif adjacency matrix
 n = size(M,1); % number of nodes
 %lambda = 0.5;
