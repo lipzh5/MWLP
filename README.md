@@ -4,6 +4,8 @@
 Usage: run the Main.m function (substitute the dataset with your preferred one)
 
 % Main.m: the main function for MWLP
+
 % MWLP_new.m: the implementation of MWLP
+
 % MotifAdjacency.m: forms the motif adjacency matrix
 
